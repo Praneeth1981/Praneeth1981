@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>I'm Praneeth, a BTech Computer Science student<br>🔭 I’m currently working on Analyse Growth and Present Insights to the Telangana Government<br>🌱 I’m currently learning data science and analytics.<br>📚 I am a dedicated Data Science and Machine Learning enthusiast.
+<br><br>I'm Praneeth, a BTech Computer Science student<br>🔭 I’m currently working on Analyse Growth and Present Insights to the Telangana Government<br>🌱 I’m currently learning data science and analytics.<br>
 
 
 ## 🌐 Socials:
